@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.header {
+    background-color: royalblue;
+    height: 50px;
+    font-size: 2em;
+    color: white;
+    padding: 20px;
+}
+.form {
+    border: 1px solid none;
+    width: 40%;
+    height: 15em;
+    padding: 20px;
+}
+.inputText {
+    width: 190%;
+    border: none;
+    border-bottom: 1px solid whitesmoke;
+    font-size: 1em;
+    text-align: center;
+    height: 30px;
+
+}
+.buttonAdd {
+    width: 190%;
+    border: none;
+    height: 50px;
+    background-color: green;
+    font-size: 1.2em;
+    color: white;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+
+.displaylist {
+    border: 1px solid black;
+}
+
+.tolistitem {
+    margin: auto;
+    border: 2px solid whitesmoke;
+    padding: 20px;
+    margin-top: 20px;
+}
+.deletebutton {
+    border: none;
+    height: 50px;
+    background-color: tomato;
+    width: 100px;
+    border-radius: 2px;
+    color: white;
+}
+.listnames {
+    color: green;
+}
